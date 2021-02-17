@@ -43,5 +43,5 @@ The output obtained is written into two files – Information.txt and Prediction
 ### Members :
 1. Ankita Kumari Jain 
 2. Ayisha D
-3. Sajid Hussain 
-4. Vijay Krishnan
+3. Sajid Hussain Rafi Ahamed
+4. Vijayakrishnan
