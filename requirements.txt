@@ -1,0 +1,12 @@
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+msedge-selenium-tools==3.141.3
+nltk ==3.5
+numpy==1.18.5
+pandas==1.2.1
+pickleshare==0.7.5
+pickle5==0.0.11
+selenium==3.141.0
+snowballstemmer==2.0.0
+tensorflow==2.4.1
+wikipedia==1.4.0
