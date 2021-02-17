@@ -13,9 +13,9 @@ The output obtained is written into two files – Information.txt and Prediction
 3. Sentiment140 dataset with 1.6 million tweets - https://www.kaggle.com/kazanova/sentiment140
 
 ## How to run the code:
-1. Install all the modules mentioned here: - Keras==2.4.3
-					   - Keras-Preprocessing==1.1.2
-					   - msedge-selenium-tools==3.141.3
+1. Install all the modules mentioned here: 1. Keras==2.4.3
+					   2. Keras-Preprocessing==1.1.2
+					   3. msedge-selenium-tools==3.141.3
 					   - nltk ==3.5
 					   - numpy==1.18.5
 					   - pandas==1.2.1
