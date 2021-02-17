@@ -1,5 +1,4 @@
 # Tweesen
-Team: Trojan_Horse
 
 The Project processes and detects tweets collected from twitter and divides them into 6 classes - Positive, Negative, Toxic, Obscene, Threat and Insult.
 Extraction of tweets from twitter is done by the use of Selenium driver and modules to access Twitter and search for verified profiles of subjects to scrape the top tweets by the subject. 
@@ -40,3 +39,9 @@ The output obtained is written into two files – Information.txt and Prediction
 4. Including non-verified accounts for prediction. 
 
 *Disclaimer: Smooth functioning of the code requires good internet connectivity. Re-run the code in case of error.*
+### Team : Trojan_Horse
+### Members :
+1. Ankita Kumari Jain 
+2. Ayisha D
+3. Sajid Hussain 
+4. Vijay Krishnan
