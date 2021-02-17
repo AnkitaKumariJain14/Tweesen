@@ -14,18 +14,19 @@ The output obtained is written into two files – Information.txt and Prediction
 
 ## How to run the code:
 1. Install all the modules mentioned here: 
+
           - Keras==2.4.3
 	  - Keras-Preprocessing==1.1.2
 	  - msedge-selenium-tools==3.141.3
 	  - nltk ==3.5
 	  - numpy==1.18.5
 	  - pandas==1.2.1
-          - pickleshare==0.7.5
+         - pickleshare==0.7.5
 	  - pickle5==0.0.11
 	  - selenium==3.141.0
-	 - snowballstemmer==2.0.0
-	 - tensorflow==2.4.1
-	 - wikipedia==1.4.0
+	  - snowballstemmer==2.0.0
+	  - tensorflow==2.4.1
+	  - wikipedia==1.4.0
 2. According to the given input format, pass the input.txt file that contains name of the subject, profession, country etc., along with the number of test cases as "py final.py --testcase *no of testcases* --inputfile "input.txt"" 
 3. After the code execution, the following files will be saved in the directory:
 	Information.txt: 
