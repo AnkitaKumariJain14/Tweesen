@@ -25,7 +25,7 @@ The output obtained is written into two files – Information.txt and Prediction
     - snowballstemmer==2.0.0
     - tensorflow==2.4.1
     - wikipedia==1.4.0
-2. According to the given input format, pass the input.txt file that contains name of the subject, profession, country etc., along with the number of test cases as "py finale.py --testcase *no of testcases* --inputfile "input.txt"" 
+2. According to the given input format, pass the input.txt file that contains name of the subject, profession, country etc., along with the number of test cases as "py Finale.py --testcase *no of testcases* --inputfile "input.txt"" 
 3. After the code execution, the following files will be saved in the directory:
 	Information.txt: 
 	Information.txt contains the name followed by the query and a wikipedia summary of the subject. It also contains all the tweets that were taken into account for processing by various models.
