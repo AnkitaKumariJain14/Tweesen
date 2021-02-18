@@ -32,6 +32,8 @@ The output obtained is written into two files – Information.txt and Prediction
 	Prediction.txt: 
 	This file contains the query followed by number of positive, negative, Toxic, Obscene, Threat and Insult tweets. It is followed by the Big 5 classification of the subject. 
 
+#### Link for Models - https://drive.google.com/drive/folders/1qDDkwpjSLCtbWPUrSil64YiU_tGPbQKb?usp=sharing
+
 ## Further Development: 
 1. Incorporation of Tweets in various languages to increase the scope of detection.
 2. Including other social media platforms and blogs. 
